@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/exams/data.json</guid>
+      <description>The exams are worth 80% of the final grade. Solutions for Exam #4 are not available.
+EXAMS SOLUTIONS Exam 1 (PDF) (PDF) Exam 2 (PDF) (PDF) Exam 3 (PDF) (PDF) Exam 4 (PDF) </description>
+    </item>
+    
+    <item>
+      <title>MIT15_075JF11_exam01_soln.pdf</title>
+      <link>/resources/mit15_075jf11_exam01_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_075jf11_exam01_soln/data.json</guid>
+      <description>This resource contains information on the solution of exam 1 based on probability, and conditional probability.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_075JF11_exam01.pdf</title>
+      <link>/resources/mit15_075jf11_exam01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_075jf11_exam01/data.json</guid>
+      <description>This resource contains information on the exam 1 based on probability, and conditional probability.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_075JF11_exam02_soln.pdf</title>
+      <link>/resources/mit15_075jf11_exam02_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_075jf11_exam02_soln/data.json</guid>
+      <description>This resource contains information on the solution of exam 2 based on total success rates, and probability.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_075JF11_exam02.pdf</title>
+      <link>/resources/mit15_075jf11_exam02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_075jf11_exam02/data.json</guid>
+      <description>This resource contains information on the exam 2 based on total success rates, and probability.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_075JF11_exam03_soln.pdf</title>
+      <link>/resources/mit15_075jf11_exam03_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_075jf11_exam03_soln/data.json</guid>
+      <description>This resource contains information on the solution of exam 3 based on hypotheses H0 : p1 = p2, and true proportion.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_075JF11_exam03.pdf</title>
+      <link>/resources/mit15_075jf11_exam03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_075jf11_exam03/data.json</guid>
+      <description>This resource contains information on the exam 3 based on hypotheses H0 : p1 = p2, and true proportion.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_075JF11_exam04.pdf</title>
+      <link>/resources/mit15_075jf11_exam04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_075jf11_exam04/data.json</guid>
+      <description>This resource contains information on the solution of exam 4 based on t-test, hypothesis, multiple regression, and variance.</description>
+    </item>
+    
+  </channel>
+</rss>
